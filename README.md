@@ -1,6 +1,6 @@
 
+<img src="https://github.com/Ayberkyvs/Ayberkyvs/assets/35408256/7b5e1019-fd3a-406b-9dff-0ed54e40ffc1" alt="Ayberk Yavas Banner" width="320" height="180">
 
-https://github.com/Ayberkyvs/Ayberkyvs/assets/35408256/7b5e1019-fd3a-406b-9dff-0ed54e40ffc1
 ## Hi there 👋!
 
 - 🔭 I’m currently working on Front-End Development
