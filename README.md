@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 - 🔭 I’m currently working on Front-End Development
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on anormal projects
