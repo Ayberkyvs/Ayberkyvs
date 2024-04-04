@@ -1,4 +1,8 @@
-## Hi there 👋
+
+
+[Be your own god](https://github.com/Ayberkyvs/Ayberkyvs/assets/35408256/7b5e1019-fd3a-406b-9dff-0ed54e40ffc1)
+## Hi there 👋!
+
 - 🔭 I’m currently working on Front-End Development
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on anormal projects
