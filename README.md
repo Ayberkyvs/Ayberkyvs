@@ -9,8 +9,7 @@
 - 📫 How to reach me: contact@ayberkyavas.com
 
     <section class="profile-section">
-      <style>
-         <style>
+    <style>
       .profile-section {
         width: 100%;
         padding: 20px;
@@ -119,7 +118,6 @@
         white-space: nowrap;
       }
     </style>
-      </style>
       <div class="profile-header">
         <img src="https://media.licdn.com/dms/image/v2/D5603AQEg_9QnhOIdIQ/profile-displayphoto-shrink_800_800/B56ZPlAq6bHIAg-/0/1734713979202?e=1740614400&amp;v=beta&amp;t=YQJc463a_ASOq5S_mN1AvW2EbNvsf_Rb_tWlKFj5udQ" alt="Ayberk Profile Picture" class="profile-image">
         <div class="profile-wrapper">
