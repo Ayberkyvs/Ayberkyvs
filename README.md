@@ -1,9 +1,12 @@
+<div align="left">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQEg_9QnhOIdIQ/profile-displayphoto-shrink_800_800/B56ZPlAq6bHIAg-/0/1734713979202?e=1740614400&amp;v=beta&amp;t=YQJc463a_ASOq5S_mN1AvW2EbNvsf_Rb_tWlKFj5udQ" align="center" style="width: 90px; height: 90px;" />
+  </div> 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5603AQEg_9QnhOIdIQ/profile-displayphoto-shrink_800_800/B56ZPlAq6bHIAg-/0/1734713979202?e=1740614400&amp;v=beta&amp;t=YQJc463a_ASOq5S_mN1AvW2EbNvsf_Rb_tWlKFj5udQ" align="center" style="width: 100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEnW4Nxy5fJMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734712573219?e=1740614400&v=beta&t=AJ4sc39mcqUsOVsvQdd_pgqgrs-nnnJmx1bmF7E9pFM" align="center" style="width: 100%" />
 </div>  
   
 
-<div align="center">Front-end Developer | MERN Stack | UI/UX Designer</div>  
+<div align="left"><h1>Front-end Developer | MERN Stack | UI/UX Designer</h1></div>  
   
 
 - 🔭 I’m currently working on Next.js and Fullstack Projects  
@@ -97,8 +100,7 @@
 <br/>  
 
 
-## SUMMARY  
-  
+
 
 <br/>  
 
@@ -121,6 +123,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
