@@ -1,148 +1,126 @@
+<div align="center">
+<img src="https://media.licdn.com/dms/image/v2/D5603AQEg_9QnhOIdIQ/profile-displayphoto-shrink_800_800/B56ZPlAq6bHIAg-/0/1734713979202?e=1740614400&amp;v=beta&amp;t=YQJc463a_ASOq5S_mN1AvW2EbNvsf_Rb_tWlKFj5udQ" align="center" style="width: 100%" />
+</div>  
+  
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEnW4Nxy5fJMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734712573219?e=1740614400&v=beta&t=AJ4sc39mcqUsOVsvQdd_pgqgrs-nnnJmx1bmF7E9pFM" alt="Ayberk Yavas Banner" width="100%" height="auto">
+<div align="center">Front-end Developer | MERN Stack | UI/UX Designer</div>  
+  
 
-## Hi there 👋!
+- 🔭 I’m currently working on Next.js and Fullstack Projects  
+  
 
-- 🔭 I’m currently working on Next.js and Fullstack Projects
-- 🌱 I’m currently learning MERN, Next.js, JWT, Websocket
-- 👯 I’m looking to collaborate on anormal projects
-- 📫 How to reach me: contact@ayberkyavas.com
+- 🌱 I’m currently learning MERN, Next.js, JWT, Websocket  
+  
+
+- 👯 I’m looking to collaborate on anormal projects  
+  
+
+- 📫 How to reach me: contact@ayberkyavas.com  
+  
+
+<br/>  
 
 
-<div class="profile-section">
-  <style>
-  .profile-section {
-    width: 100%;
-    padding: 20px;
-    box-sizing: border-box;
-    overflow: hidden;
-    border-radius: 8px;
-    margin: 20px auto;
-  }
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-  .profile-wrapper {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: start;
-  }
-
-  .profile-header {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    height: fit-content;
-  }
-
-  .profile-image {
-    width: 90px;
-    height: 90px;
-    background-color: #007bff;
-    border-radius: 50%;
-  }
-
-  .profile-title {
-    font-size: 1.5rem;
-    font-weight: 600;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-
-  .badge-check {
-    width: 20px;
-    height: 20px;
-    display: inline-block;
-    border-radius: 50%;
-  }
-
-  .badge-image {
-    width: 100%;
-    height: 100%;
-    margin-bottom: 2px;
-  }
-
-  .profile-subtitle {
-    font-size: 1rem;
-    color: #888888;
-    margin-top: 4px;
-  }
-
-  .profile-paragraph {
-    margin-top: 15px;
-    font-size: 1rem;
-    line-height: 130%;
-    color: #333333;
-  }
-
-  .profile-quote {
-    margin-top: 8px;
-    font-size: 1rem;
-    color: #888888;
-  }
-
-  .profile-company {
-    font-weight: bold;
-    background: linear-gradient(90deg, #007bff, #ff4081);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-
-  .view-resume {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 16px;
-    background: linear-gradient(90deg, #ff4081, #007bff);
-    color: #ffffff;
-    padding: 10px 20px;
-    border-radius: 12px;
-    text-decoration: none;
-    font-size: 0.9rem;
-  }
-
-  .file-icon {
-    width: 16px;
-    height: 16px;
-    background-color: #fff;
-    margin-left: 8px;
-    display: inline-block;
-  }
-
-  .skills-container {
-    width: 100%;
-    height: fit-content;
-    margin-top: 20px;
-  }
-
-  .skills-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .skills-list li {
-    background-color: #000;
-    color: #ffffff;
-    padding: 8px 12px;
-    border-radius: 4px;
-    font-size: 0.9rem;
-    white-space: nowrap;
-  }
-</style>
-  <div class="profile-header">
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQEg_9QnhOIdIQ/profile-displayphoto-shrink_800_800/B56ZPlAq6bHIAg-/0/1734713979202?e=1740614400&amp;v=beta&amp;t=YQJc463a_ASOq5S_mN1AvW2EbNvsf_Rb_tWlKFj5udQ" alt="Ayberk Profile Picture" class="profile-image">
-    <div class="profile-wrapper">
-      <h1 class="profile-title"> Ayberk Yavas <span class="badge-check">
-        <img class="badge-image" src='https://static.vecteezy.com/system/resources/thumbnails/047/309/980/small_2x/verified-badge-profile-icon-png.png' alt="Verified Badge">
-      </span></h1>
-      <p class="profile-subtitle">Front-end Developer | MERN Stack | UI/UX Designer</p>
-    </div>
-  </div>
-  <p class="profile-paragraph">Creative Front-End Developer with expertise in React and the MERN stack...</p>
-  <p class="profile-quote">I enjoy coding for <span class="profile-company">@myself</span></p>
-  <a href="https://www.ayberkyavas.com/assets/frontend_developer_ayberk_yavas-BWUqkVWH.pdf" target="_blank" class="view-resume">View Resume</a>
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/ayberksch" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ayberksch" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Ayberkyvs" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Ayberkyvs&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayberkyvs&hide_border=true&layout=compact" align="left" />  
+
+<br/>  
+
+
+## SUMMARY  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Ayberkyvs&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/ayberksch" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
