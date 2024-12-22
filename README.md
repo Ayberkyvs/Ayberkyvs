@@ -8,6 +8,15 @@
 - 👯 I’m looking to collaborate on anormal projects
 - 📫 How to reach me: contact@ayberkyavas.com
 
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://github.com/Ayberkyvs/Ayberkyvs/blob/main/styles.css">
+  <title>Profile Page</title>
+</head>
+<body>
     <section class="profile-section">
       <div class="profile-header">
         <img src="https://media.licdn.com/dms/image/v2/D5603AQEg_9QnhOIdIQ/profile-displayphoto-shrink_800_800/B56ZPlAq6bHIAg-/0/1734713979202?e=1740614400&amp;v=beta&amp;t=YQJc463a_ASOq5S_mN1AvW2EbNvsf_Rb_tWlKFj5udQ" alt="Ayberk Profile Picture" class="profile-image">
@@ -40,3 +49,5 @@
         </ul>
       </div>
     </section>
+</body>
+</html>
