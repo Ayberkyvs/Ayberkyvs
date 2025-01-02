@@ -3,7 +3,7 @@
 </div>  
   
 
-<div align="left"><h1>Front-end Developer | MERN Stack | UI/UX Designer</h1></div>  
+<div align="left"><h1>Front-End Developer | MERN Stack | UI/UX Designer</h1></div>  
   
 
 - 🔭 I’m currently working on Next.js and Fullstack Projects  
