@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://localhost:5173/ayberk-banner.png" align="center" style="width: 100%" />
+  <img src="https://ayberkyavas.com/ayberk-banner.png" align="center" style="width: 100%" />
 </div>  
   
 
