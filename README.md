@@ -3,10 +3,10 @@
 </div>  
   
 
-<div align="left"><h1>Front-End Developer | MERN Stack | UI/UX Designer</h1></div>  
+<div align="left"><h1>Front-End Developer | Next.js | React | TypeScript | UI/UX Designer</h1></div>  
   
 
-- 🔭 I’m currently working on Next.js and Fullstack Projects  
+- 🔭 I’m currently working on Next.js and Full-stack projects  
   
 
 - 🌱 I’m currently learning MERN, Next.js, JWT, Websocket  
@@ -15,7 +15,9 @@
 - 👯 I’m looking to collaborate on anormal projects  
   
 
-- 📫 How to reach me: contact@ayberkyavas.com  
+- 📫 How to reach me: contact@ayberkyavas.com
+
+- 👨🏼‍💻 My portfolio website: https://www.ayberkyavas.com
   
 
 <br/>  
