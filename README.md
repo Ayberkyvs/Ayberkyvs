@@ -7,7 +7,7 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on Next.js and Full-stack projects  <br>🌱 I’m currently learning MERN, Next.js, JWT, Websocket  <br>👯 I’m looking to collaborate on anormal projects  <br>📫 How to reach me: contact@ayberkyavas.com<br>👨🏼‍💻 My portfolio website: https://www.ayberkyavas.com
+🔭 I’m currently working on Next.js and Full-stack projects  <br>🌱 I’m currently learning MERN, Next.js, JWT, Websocket  <br>👯 I’m looking to collaborate on anormal projects  <br>📫 How to reach me: contact@ayberkyavas.com<br>👨🏼‍💻 My portfolio website: https://www.ayberkyavas.com/
 
 
 ## 🌐 Socials:
