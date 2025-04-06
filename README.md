@@ -10,7 +10,7 @@
 🔭 I’m currently working on Next.js and Full-stack projects  <br>🌱 I’m currently learning MERN, Next.js, JWT, Websocket <br>👯 I’m looking to collaborate on anormal projects  <br>📫 How to reach me: contact@ayberkyavas.com<br>👨🏼‍💻 My portfolio website: https://www.ayberkyavas.com/
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ayberksch)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayberksch) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayberksch) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21361381) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@ayberkyavas.com) 
 
 # 💻 Tech Stack:
