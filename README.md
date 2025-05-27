@@ -3,7 +3,7 @@
 </div>
       
 
-<div align="left"><h1>Front-End Developer | Next.js | React | TypeScript | UI/UX Designer </h1></div>    
+<div align="left"><h1>Front-End Developer | Next.js | React | TypeScript | UI/UX Designer </h1></div>     
     
  
 # 💫 About Me:
