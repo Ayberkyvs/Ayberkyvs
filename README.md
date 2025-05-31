@@ -1,6 +1,6 @@
 <div align="center"> 
 <img src="https://ayberkyavas.com/media/banner.png" align="center" style="width: 100%" /> 
-</div>
+</div>  
       
 
 <div align="left"><h1>Front-End Developer | Next.js | React | TypeScript | UI/UX Designer </h1></div>     
